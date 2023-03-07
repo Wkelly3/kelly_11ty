@@ -1,0 +1,12 @@
+nav {
+     ul{
+          display: flex;
+          list-style: none;
+          font-size: 1.5em;
+          justify-content: center;
+          padding: 0;
+          li a {
+               padding: 1em;
+          }
+     }
+}
